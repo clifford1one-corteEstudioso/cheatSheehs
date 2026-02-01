@@ -6,6 +6,8 @@
 
 static, relative, absolute, fixed, sticky, fixed
 
+- static: es cmo el default, se pocisiones segun elementos anteriores. Con este no funciona usar top, bottom, right, left.
+
 ### display
 
 flex, block, inline, grid, none
