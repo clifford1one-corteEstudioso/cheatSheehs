@@ -32,6 +32,21 @@ sin comentarios
 
 %, px, vw/vh, auto, fit-content
 
+### scrollbar-width
+
+scrollbar-width
+
+auto, thin, none, inherit, initial, revert, revert-layer, unset
+
+
+## clases especiales
+
+### hover
+
+al escribir .clase:hover{}, controlar el efecto al hacer hover, puedes ser un scale(x,x), un color: #(sin es texto), y fill si es un svg.
+
+
+
 
 ## ejemplos del mundo real
 
