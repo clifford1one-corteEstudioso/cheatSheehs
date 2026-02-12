@@ -38,6 +38,14 @@ scrollbar-width
 
 auto, thin, none, inherit, initial, revert, revert-layer, unset
 
+### box-sizing
+
+se usa para definir en base a qué se calcula el ancho y alto de la caja en cuestión
+
+border-box, content-box
+
+border toma en cuenta el padding y otros, contento toma en cuenta solo el contenido interior.
+
 
 ## clases especiales
 
